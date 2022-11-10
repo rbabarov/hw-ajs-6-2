@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jybvdypc2sq0f8e7?svg=true)](https://ci.appveyor.com/project/rbabarov/hw-ajs-6-2)
